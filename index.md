@@ -48,6 +48,6 @@ Ini contoh struktur project yang bisa digunakan.
 |   └─ style.css
 ```
 
-> Jika ada pertanyaan silakan chat via telegram [kesini](https://t.me/timenz) 
+> Jika ada pertanyaan silakan sampaikan dengan membalas email
 
 **Selamat Mengerjakan**
