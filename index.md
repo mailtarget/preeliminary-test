@@ -1,4 +1,4 @@
-# Mtarget Styling Recruitment Test for Frontend Developer
+# MTARGET Styling Recruitment Test for Frontend Developer
 
 
 ## Tugas
