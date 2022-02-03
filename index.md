@@ -1,4 +1,4 @@
-# Mtarget Preeliminary Recruitment Test for Frontend Developer
+# Mtarget Styling Recruitment Test for Frontend Developer
 
 
 ## Tugas
@@ -31,7 +31,7 @@ Membuat 1 halaman html sesuai dengan gambar design yang diberikan (responsive de
 - Setelah `git init` tambahkan file `index.html` lakukan initial commit kemudian di-push ke github
 - Waktu pengerjaan maksimal 2 hari ( 2x24jam ) dihitung mulai dari initial commit
 - Usahakan melakukan commit & push progress sesering mungkin dengan commit message yang informatif
-- Tugas dikirimkan ke **career[at]mailtarget[dot]co** dan cc ke **timen[at]mtarget[dot]co** dengan subject **Frontend Preeliminary Test - {Nama Lengkap}**
+- Tugas dikirimkan ke **career[at]mailtarget[dot]co** dan cc ke **timen[at]mtarget[dot]co** dengan subject **Frontend Styling Test - {Nama Lengkap}**
 - Pastikan sudah ditulis informasi url project repository di github dan url github page yang digunakan pada email yang dikirimkan
 
   
